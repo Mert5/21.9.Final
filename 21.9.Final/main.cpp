@@ -1,3 +1,4 @@
+#include <iostream>
 #include "animal.h"
 #include "feline.h"
 #include "bird.h"
@@ -7,7 +8,6 @@
 #include "crow.h"
 #include "bulldog.h"
 #include "wildcat.h"
-#include <iostream>
 
 // References => https://www.youtube.com/watch?v=8jLOx1hD3_o
 //            => https://github.com/rutura/The-C-20-Masterclass-Source-Code/blob/main/37.Polymorphism/37.10Final
