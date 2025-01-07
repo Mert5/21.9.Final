@@ -12,7 +12,7 @@
 // References => https://www.youtube.com/watch?v=8jLOx1hD3_o
 //            => https://github.com/rutura/The-C-20-Masterclass-Source-Code/blob/main/37.Polymorphism/37.10Final
 
-//Intersting fact #1
+//Interesting fact #1
 /*
 class Plane final{
     Plane()=default;
