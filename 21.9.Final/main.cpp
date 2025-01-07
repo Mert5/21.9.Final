@@ -1,3 +1,12 @@
+#include "animal.h"
+#include "feline.h"
+#include "bird.h"
+#include "dog.h"
+#include "cat.h"
+#include "pigeon.h"
+#include "crow.h"
+#include "bulldog.h"
+#include "wildcat.h"
 #include <iostream>
 
 // References => https://www.youtube.com/watch?v=8jLOx1hD3_o
